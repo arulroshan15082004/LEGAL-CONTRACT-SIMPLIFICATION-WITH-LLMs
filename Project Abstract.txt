@@ -1,0 +1,5 @@
+Title: Legal Contract Simplification with Large Language Models (LLMs)
+
+Abstract:
+
+Legal documents are often complex, making them difficult for non-experts to understand. This project presents a system that simplifies legal contracts using state-of-the-art Large Language Models (LLMs). The system takes in legal text, processes it through a fine-tuned LLM (like OpenAI's GPT or Meta's LLaMA), and produces a simplified version in plain English while retaining the legal intent. A labeled dataset of contract clauses and their simplified equivalents is used for fine-tuning and evaluation. The project aims to improve legal accessibility for the public, promote transparency, and assist professionals in reviewing contracts efficiently. Evaluation is done using BLEU scores and human readability feedback.

@@ -1,0 +1,89 @@
+Legal Contract Simplification Dataset
+====================================
+
+1. Non-Disclosure Agreement
+--------------------------
+Original:
+The Recipient shall maintain the Confidential Information in strict confidence and shall not disclose, disseminate, or otherwise communicate such Confidential Information, in whole or in part, to any third party whatsoever, without the prior written consent of the Disclosing Party, which consent may be withheld in the Disclosing Party's sole and absolute discretion.
+
+Simplified:
+You must keep all confidential information secret. You cannot share it with anyone else unless the other party gives you written permission first.
+
+Tags: confidentiality, disclosure, NDA
+
+2. Indemnification
+-----------------
+Original:
+To the fullest extent permitted by law, the Contractor shall indemnify, defend, and hold harmless the Owner, its officers, directors, shareholders, partners, representatives, agents and employees from and against any and all claims, damages, losses, and expenses, direct, indirect, or consequential (including but not limited to fees and charges of engineers, architects, attorneys, and other professionals and court costs) arising out of or resulting from the performance of the Contractor's work.
+
+Simplified:
+If allowed by law, the contractor must protect the owner from any claims, damages, or costs that happen because of the contractor's work. This includes paying for lawyers, court fees, and other expenses.
+
+Tags: liability, indemnification, protection
+
+3. Termination
+-------------
+Original:
+Either party may terminate this Agreement for material breach upon thirty (30) days written notice to the other party, provided that such breach remains uncured at the expiration of the notice period. In the event of termination by Company for Consultant's material breach, Consultant shall promptly refund to Company the portion of any fees prepaid by Company prorated to the effective date of termination.
+
+Simplified:
+Either side can end this agreement if the other side seriously breaks the rules. They must send a written notice and give 30 days to fix the problem. If the company ends the agreement because of the consultant's serious breach, the consultant must return part of any money already paid, calculated up to the ending date.
+
+Tags: termination, breach, refund
+
+4. Payment Terms
+---------------
+Original:
+Payment for services rendered shall be due and payable by Client to Service Provider within thirty (30) calendar days following Client's receipt of Service Provider's invoice. Any amount remaining unpaid following the thirty (30) day period shall accrue interest at a rate of one and one-half percent (1.5%) per month, or the maximum rate permitted by applicable law, whichever is less, from the due date until paid in full.
+
+Simplified:
+You must pay for services within 30 days after receiving the invoice. If you pay late, you'll be charged 1.5% interest per month (or less if that's the maximum legal rate) on the unpaid amount until you pay everything.
+
+Tags: payment, interest, invoice
+
+5. Warranties
+------------
+Original:
+EXCEPT AS EXPRESSLY SET FORTH IN THIS AGREEMENT, THE SERVICES ARE PROVIDED "AS IS" AND "AS AVAILABLE" WITHOUT WARRANTY OF ANY KIND, AND COMPANY HEREBY DISCLAIMS ALL WARRANTIES, WHETHER EXPRESS, IMPLIED, STATUTORY, OR OTHERWISE, INCLUDING, WITHOUT LIMITATION, ANY WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, AND NON-INFRINGEMENT.
+
+Simplified:
+Except for what's specifically promised in this agreement, the services are provided "as is" with no guarantees. The company makes no promises about the quality of services, their suitability for your needs, or that they won't violate any rights.
+
+Tags: warranty, disclaimer, liability
+
+Common Legal Terms Dictionary
+===========================
+
+1. Latin Legal Terms
+-------------------
+- ab initio: From the beginning
+- bona fide: In good faith; genuine
+- de facto: In fact; in reality
+- ex parte: From one side only
+- force majeure: Unforeseeable circumstances that prevent fulfilling a contract
+- prima facie: At first sight; based on first impression
+- quid pro quo: Something given in return for something else
+- sine qua non: An essential condition
+- status quo: The existing state of affairs
+
+2. Contract Terms
+----------------
+- breach: Violation of a contract term
+- consideration: Something of value exchanged in a contract
+- covenant: Formal agreement or promise
+- indemnify: To compensate for loss or damage
+- liability: Legal responsibility
+- material breach: Significant violation of contract
+- rescission: Cancellation of contract
+- severability: Keeping remaining contract parts valid if some are void
+- termination: Ending of agreement
+- warranty: Promise about condition or performance
+
+3. Legal Concepts
+----------------
+- arbitration: Dispute resolution outside courts
+- estoppel: Prevention from contradicting established truth
+- jurisdiction: Power to make legal decisions
+- negligence: Failure to take proper care
+- tort: Wrongful act leading to civil liability
+- waiver: Voluntary giving up of a right
